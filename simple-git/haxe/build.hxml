@@ -1,0 +1,6 @@
+-cp source
+--library hxnodejs
+--library simple-git
+--library source-map-support
+-js export/main.js
+-main Test

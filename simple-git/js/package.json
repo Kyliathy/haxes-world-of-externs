@@ -1,0 +1,16 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/test.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon --inspect src/test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "simple-git": "^2.21.0"
+  }
+}
