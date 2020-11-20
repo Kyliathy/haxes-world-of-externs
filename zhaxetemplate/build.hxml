@@ -1,7 +1,6 @@
 -cp source
+--library node
 --library hxnodejs
---library simple-git
 --library source-map-support
 -js export/main.js
--D js-es=6
 -main Test

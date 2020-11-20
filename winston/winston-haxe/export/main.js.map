@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"main.js",
+"sourceRoot":"file:///",
+"sources":["D:/Coding/Sandbox/haxes-world-of-externs/winston/winston-haxe/source/Test.hx","D:/Coding/Sandbox/haxes-world-of-externs/winston/winston-haxe/.haxelib/hxnodejs/12,1,0/src/js/node/stream/Writable.hx","D:/Coding/Sandbox/haxes-world-of-externs/winston/winston-haxe/.haxelib/hxnodejs/12,1,0/src/js/node/url/URLSearchParams.hx"],
+"names":[],
+"mappings":";;;;YAYC,WAAuB;AAAA,CACtB;AADsB,CAGtB,oBAAqC;AAHf,CActB,oBAAkC,UAC1B,iBAIC,uCACK,YAAW;AApBH,CAuBtB,aAA4B,qBAAqB;AAvB3B,CAyBtB,WAAW,OAAQ;AAzBG,CA0BtB,WAAW,QAAS;AA1BE,CA4BtB,YAAY;AA5BU,CA8BtB,WAAgB,WAAM;AAAA,EACrB,YAAY;AADS;AAAA,GAEnB;AAhCmB;;;mEC4UvB,kBAAkF;AAAA,CACjF,EAAI,EAAC,qCAAiB,QAAS,UAE9B;AAAA,wBAAsB,QAAS,QAAS,QAAM,WAAW;AAAA,UAAO;AAAP;AAAzD;AAHgF,CAQjF,OAAO,AAAK;AARqE;;kECzNlF;AAAA,aACQ,CAAC,KAAM;AADf;AAAA;sEAIA,gBACC;AAAA,QAAO,MAAK;AAAZ;uEAGD,gBACC;AAAA,QAAO,MAAK;AAAZ;;;;;"
+}

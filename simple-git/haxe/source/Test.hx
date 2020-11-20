@@ -26,11 +26,11 @@ class Test {
 	static function main() {
 		SourceMapSupport.install();
 
-		var funcCheckIsRepoCallback:SimpleGitTaskCallback<Bool> = {call: checkIsRepoCallback};
+		var funcCheckIsRepoCallback:SimpleGitTaskCallback<Bool> = untyped checkIsRepoCallback;
 
-		var funcTagResultCallback:SimpleGitTaskCallback<TagResult> = {call: tagResultCallback};
+		var funcTagResultCallback:SimpleGitTaskCallback<TagResult> = untyped tagResultCallback;
 
-		var funcStatusResultCallback:SimpleGitTaskCallback<StatusResult> = {call: statusResultCallback};
+		var funcStatusResultCallback:SimpleGitTaskCallback<StatusResult> = untyped statusResultCallback;
 
 		// console.dir(Path.join(__dirname, "../../"));
 		var options:SimpleGitOptions = {baseDir: "../../../haxes-world-of-externs/", maxConcurrentProcesses: 6, binary: "git"};
