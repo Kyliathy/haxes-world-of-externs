@@ -36,9 +36,7 @@ class Test {
 		var logger:winston.Logger = Winston.createLogger(loggerOptions);
 
 		logger.log("info", "This is an info log.");
-		logger.log("error", "hi, i'm error");
-
-		console.dir("FUNCTION CALLS MADE");
+		logger.log("error", "This be an error log.");
 
 		SetTimeout.call(() -> {
 			console.log("Forced Wait.");
