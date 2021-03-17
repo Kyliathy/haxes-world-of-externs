@@ -1,0 +1,7 @@
+-cp source
+--library node
+--library hxnodejs
+--library chalk
+--library source-map-support
+-js export/main.js
+-main Test

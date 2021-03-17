@@ -2,16 +2,12 @@ import js.html.SetTimeout;
 import js.Node.console;
 import js.node.Path;
 import js.Node.__dirname;
-import simple_git.SimpleGitOptions;
-import simple_git.SimpleGitTaskCallback;
-import simple_git.TagResult;
 
 class Test {
-
 	static function main() {
 		SourceMapSupport.install();
 
-		console.dir("FUNCTION CALLS MADE");
+		console.log(Chalk.value.blue("testing" + Chalk.value.underline("this") + Chalk.value.red(" some more")));
 
 		SetTimeout.call(() -> {
 			console.log("Forced wait.");

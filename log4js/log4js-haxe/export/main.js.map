@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"main.js",
+"sourceRoot":"file:///",
+"sources":["D:/Coding/Sandbox/haxes-world-of-externs/log4js/log4js-haxe/source/Test.hx","C:/HaxeToolkit4/haxe/std/js/_std/haxe/ds/StringMap.hx","D:/Coding/Sandbox/haxes-world-of-externs/log4js/log4js-haxe/.haxelib/hxnodejs/12,1,0/src/js/node/stream/Writable.hx","D:/Coding/Sandbox/haxes-world-of-externs/log4js/log4js-haxe/.haxelib/hxnodejs/12,1,0/src/js/node/url/URLSearchParams.hx"],
+"names":[],
+"mappings":";;;;;YASC,WAAuB;AAAA,CACtB;AADsB,CAGtB,YAAY;AAHU,CAKtB,aAAoB,iBAAiB;AALf,CAMtB,WAA8B;AANR,CAOtB,WAAyB;AAPH,CAQtB,UAAU;AARY,CAStB,YAAoB,cAAY,cAAa;AATvB,CAStB,kBAAS,cAAT;AAAA,mBAAS,UAAT;AAAA;AAAA,SAAS,aAAT;AAAA;AATsB,CAWtB,mBAA2B;AAXL,CAYtB,mBAA2B,WAAgB;AAZrB,CAatB,YAAY;AAbU,CAetB,aAA2B,cACf,WAAS,SAAO,mBAAkB,6BACjC;AAjBS,CAuBtB,iBAAiB;AAvBK,CAyBtB,eAAe;AAzBO,CA0BtB,aAAa;AA1BS,CA4BtB,WAAgB,WAAM;AAAA,EACrB,YAAY;AADS;AAAA,GAEnB;AA9BmB;wBCyCvB,WACC;AAAA,UAAI;AAAJ;;cA0BD,oBAA+C;AAAA,EAC9C,EAAI,YAAM,MACT;AAAA,aAAK;AAAL;AAF6C,EAG9C,QAAG,AAAK,MAAM,OAAO;AAHyB;;;mEC2Q/C,kBAAkF;AAAA,CACjF,EAAI,EAAC,qCAAiB,QAAS,UAE9B;AAAA,wBAAsB,QAAS,QAAS,QAAM,WAAW;AAAA,UAAO;AAAP;AAAzD;AAHgF,CAQjF,OAAO,AAAK;AARqE;;kECzNlF;AAAA,aACQ,CAAC,KAAM;AADf;AAAA;sEAIA,gBACC;AAAA,QAAO,MAAK;AAAZ;uEAGD,gBACC;AAAA,QAAO,MAAK;AAAZ;AF+BQ;;;;"
+}

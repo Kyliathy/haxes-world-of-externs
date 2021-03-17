@@ -1,0 +1,21 @@
+{
+  "name": "jasmine-haxe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/jasmine",
+    "start": "nodemon --inspect export/main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/jasmine": "^3.6.6",
+    "@types/node": "^14.14.35",
+    "@types/source-map-support": "^0.5.3",
+    "dts2hx": "^0.15.3",
+    "jasmine": "^3.6.4",
+    "simple-git": "^2.21.0",
+    "source-map-support": "^0.5.19"
+  }
+}

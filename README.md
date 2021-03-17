@@ -2,7 +2,11 @@
 
 This repository is used to debug & test Haxe externs.
 
-Each directory represents a JavaScript library. In that directory, a JavaScript and a Haxe directory can be found. Each contain a test of using the library. The Haxe libraries may have issues that are currently debugged.
+Each directory represents a JavaScript library. In that directory, a JavaScript and a Haxe directory can be found. 
+
+Each of these directories contain sa test of using that respective library, one for JavaScript (to show how the library works natively) and one for Haxe (to show how it can be used via Externs).
+
+The Haxe directory may contain a launch.bat file that can be used for Windows to build & run the library. The Haxe libraries may have issues that are currently debugged.
 
 The Haxe directory is created around a simple web application that tests the JavaScript library.
 
