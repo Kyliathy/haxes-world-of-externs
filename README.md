@@ -21,4 +21,4 @@ In the `zhaxetemplate` directory there is a bare-bones Haxe Node JS application 
 
 New JavaScript libraries should simply be added by dropping them in a directory and using them there, to test how they work.
 
-Last updated: 2022-12-23.
+Last maintained: 2022-12-23.
